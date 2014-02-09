@@ -1,3 +1,12 @@
+/**
+ * Stacked Tabs for Bootstrap 3
+ * bootstrap-stacked-tabs v0.0.1
+ * https://github.com/vendocrat/bootstrap-stacked-tabs
+ *
+ * Copyright 2014 vendocrat. All Rights Reserved.
+ * Licensed under MIT License
+ */
+
 .tab-pane {
 	margin-top:10px}
 
@@ -14,7 +23,7 @@
 			.tabs-bottom > .nav-tabs > li > a {
 				-webkit-border-radius:0 0 4px 4px;
 				   -moz-border-radius:0 0 4px 4px;
-						border-radius:0 0 4px 4px;}
+					border-radius:0 0 4px 4px;}
 
 				.tabs-bottom > .nav-tabs > li > a:hover,
 				.tabs-bottom > .nav-tabs > li > a:focus {
@@ -61,7 +70,7 @@
 			margin-right:-1px;
 			-webkit-border-radius:4px 0 0 4px;
 			   -moz-border-radius:4px 0 0 4px;
-					border-radius:4px 0 0 4px;}
+				border-radius:4px 0 0 4px;}
 
 			.tabs-left > .nav-tabs > li > a:hover,
 			.tabs-left > .nav-tabs > li > a:focus {
@@ -86,7 +95,7 @@
 			margin-left:-1px;
 			-webkit-border-radius:0 4px 4px 0;
 			   -moz-border-radius:0 4px 4px 0;
-					border-radius:0 4px 4px 0;}
+				border-radius:0 4px 4px 0;}
 
 			.tabs-right > .nav-tabs > li > a:hover,
 			.tabs-right > .nav-tabs > li > a:focus {
